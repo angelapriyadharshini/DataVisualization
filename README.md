@@ -1,5 +1,5 @@
 # DataVisualization
-Application to show population growth using Angularjs ZingChart
+Application to show population growth using Angularjs ZingChart (https://www.zingchart.com/)
 
 ## Important Note
 This project uses FORMS AUTHENTICATION.
